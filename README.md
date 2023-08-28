@@ -12,6 +12,6 @@
     - ⚡ Fun fact: I make it a habit to challenge myself, aiming to enhance my coding skills and empower myself to assist others!
   </div>
   <div>
-    <a href="https://app.daily.dev/lcrojano"><img src="https://api.daily.dev/devcards/ef43738af0ba445dab63b60726286985.png?r=ds0" width="200" alt="luis carlos rojano's Dev Card"/></a>
+    <a href="https://app.daily.dev/lcrojano"><img src="https://github.com/lcrojanouninorte/lcrojanouninorte/blob/main/devcard.svg" width="200" alt="luis carlos rojano's Dev Card"/></a>
   </div>
 </div>
