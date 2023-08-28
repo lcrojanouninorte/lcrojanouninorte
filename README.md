@@ -1,5 +1,4 @@
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; margin-right: 20px;">
+ 
     ### Hi there! 👋
     
     - 🔭 I’m currently working on building dynamic and responsive web applications using my expertise in Angular, JavaScript, and TypeScript.
@@ -10,8 +9,8 @@
     - 📫 You can reach out to me via email at lcrojano@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/lcrojano/).
     - 😄 Pronouns: He/Him
     - ⚡ Fun fact: I make it a habit to challenge myself, aiming to enhance my coding skills and empower myself to assist others!
-  </div>
-  <div>
+ 
+  <div >
     <a href="https://app.daily.dev/lcrojano"><img src="https://github.com/lcrojanouninorte/lcrojanouninorte/blob/main/devcard.svg" width="200" alt="luis carlos rojano's Dev Card"/></a>
   </div>
 </div>
